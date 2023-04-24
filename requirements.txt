@@ -1,3 +1,4 @@
 decord
 mmaction2
 mmcv
+moviepy
