@@ -69,7 +69,7 @@ fire = gr.Interface(
     description="Recognize 400 action categories defined within the Kinetics400 dataset. ",
     inputs=gr.Video(),
     outputs=gr.Video(),
-    examples=['demo/zelda.mp4', 'demo/shaowei.mp4', 'demo/baoguo.mp4'])
+    examples=['demo/zelda.mp4', 'demo/shaowei.mp4', 'demo/baoguo.mp4', 'demo/cxk.mp4'])
 
 if __name__ == '__main__':
     fire.launch()
